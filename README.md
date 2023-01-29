@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **Flutter, TypeScript, Vue JS**
 
-- 👨‍💻 All of my projects are available at :  [https://jafrankhan.github.io/](https://jafrankhan.github.io/)
 
 - 📫 How to reach me  --> **jafaran7@gmail.com**
 
