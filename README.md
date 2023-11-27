@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jafrankhan&label=Profile%20views&color=0e75b6&style=flat" alt="jafrankhan" /> </p>
 
-- 🔭 I’m currently working on **AI Face Authentication Project**
-
-- 🌱 I’m currently learning **Flutter, TypeScript, Vue JS**
-
 
 - 📫 How to reach me  --> **jafaran7@gmail.com**
 
